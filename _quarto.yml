@@ -1,15 +1,16 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Manjul_DSPG24_Blog"
+  title: "Manjul's Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/ManjulBalayar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/manjul-balayar-b77b04251/
 format:
   html:
     theme: cosmo
