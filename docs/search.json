@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Manjul’s Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 16, 2024\n\n\nManjul Balayar\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Manjul\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 16, 2024\n\n\nManjul Balayar\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 16, 2024\n\n\nManjul Balayar\n\n\n\n\n\n\n\n\n\n\n\n\nManjul’s Introduction\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\n\n\n\nMay 16, 2024\n\n\nManjul Balayar\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -23,7 +23,7 @@
   {
     "objectID": "posts/Introduction/Manjul_Intro.html",
     "href": "posts/Introduction/Manjul_Intro.html",
-    "title": "Intro to Manjul",
+    "title": "Extra",
     "section": "",
     "text": "Words, more words, even more words."
   },
@@ -33,5 +33,26 @@
     "title": "About",
     "section": "",
     "text": "My name is Manjul Balayar, I am a senior in Software Engineering with a minor in Data Science."
+  },
+  {
+    "objectID": "posts/Manjul_Introduction_files/Manjul_Introduction.html",
+    "href": "posts/Manjul_Introduction_files/Manjul_Introduction.html",
+    "title": "Manjul’s Introduction",
+    "section": "",
+    "text": "My Photo\n\n\nHello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. I chose Software Engineering because it had the highest entry-level salary at the time of my high school graduation. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago.\n\n\n\n\nParticipating in hackathons\n\n\n\nBoxing\n\n\n\nTrying new cuisines\n\n\n\nInitially, I was solely a Software Engineering major, but I declared my minor in Data Science last fall. My interest in AI began about a year ago, inspired by ChatGPT and a video by Google’s machine learning research team about a model for detecting cancerous cells.\n\n\nI aspire to work in the field of AI/ML. Many people don’t realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it’s crucial to understand data preprocessing, feature engineering, and visualization. These skills are essential for building better models.\n\n\n\n\n\n\nGood communicator: An essential skill in any sector.\nAdaptability: I am a quick learner.\nOpen-mindedness Being open-minded helps me adapt, learn, and grow in my field.\n\n\n\n\n\nFundamental knowledge of machine learning and deep learning\nProficiency in multiple programming languages, frameworks, and tools\nExperience with data preprocessing\n\n\n\n\n\nData Visualization: Mastering tools like seaborn, matplotlib, and Tableau, and understanding the significance of various graphs.\nMachine Learning Tools: Improving my proficiency with TensorFlow, Keras, PyTorch, Sci-kit Learn, and more.\nFeature Engineering: Learning to transform raw data into meaningful features.\n\nThese skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors.\n\n\n\n\n\n\nUpdate everything except the categories: [Introduction] in the YAML metadata section of your NAME_Introductions.qmd file.\nReplace NAME in the NAME_Introductions.qmd file with your first name.\nIf including any images, place them in the imgs\\ folder and follow the Blog Writing Guidelines for adding images.\nRender the blog post locally to ensure it displays correctly. In RStudio, use the Render icon or press Ctrl+Shift+K on Windows and Shift-Command-K on Mac."
+  },
+  {
+    "objectID": "posts/Manjul_Introduction_files/Manjul_Introduction.html#about-me",
+    "href": "posts/Manjul_Introduction_files/Manjul_Introduction.html#about-me",
+    "title": "Manjul’s Introduction",
+    "section": "",
+    "text": "My Photo\n\n\nHello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. I chose Software Engineering because it had the highest entry-level salary at the time of my high school graduation. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago.\n\n\n\n\nParticipating in hackathons\n\n\n\nBoxing\n\n\n\nTrying new cuisines\n\n\n\nInitially, I was solely a Software Engineering major, but I declared my minor in Data Science last fall. My interest in AI began about a year ago, inspired by ChatGPT and a video by Google’s machine learning research team about a model for detecting cancerous cells.\n\n\nI aspire to work in the field of AI/ML. Many people don’t realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it’s crucial to understand data preprocessing, feature engineering, and visualization. These skills are essential for building better models.\n\n\n\n\n\n\nGood communicator: An essential skill in any sector.\nAdaptability: I am a quick learner.\nOpen-mindedness Being open-minded helps me adapt, learn, and grow in my field.\n\n\n\n\n\nFundamental knowledge of machine learning and deep learning\nProficiency in multiple programming languages, frameworks, and tools\nExperience with data preprocessing\n\n\n\n\n\nData Visualization: Mastering tools like seaborn, matplotlib, and Tableau, and understanding the significance of various graphs.\nMachine Learning Tools: Improving my proficiency with TensorFlow, Keras, PyTorch, Sci-kit Learn, and more.\nFeature Engineering: Learning to transform raw data into meaningful features.\n\nThese skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors.\n\n\n\n\n\n\nUpdate everything except the categories: [Introduction] in the YAML metadata section of your NAME_Introductions.qmd file.\nReplace NAME in the NAME_Introductions.qmd file with your first name.\nIf including any images, place them in the imgs\\ folder and follow the Blog Writing Guidelines for adding images.\nRender the blog post locally to ensure it displays correctly. In RStudio, use the Render icon or press Ctrl+Shift+K on Windows and Shift-Command-K on Mac."
+  },
+  {
+    "objectID": "posts/Manjul_Introduction_files/Manjul_Introduction.html#before-submitting-your-assignment",
+    "href": "posts/Manjul_Introduction_files/Manjul_Introduction.html#before-submitting-your-assignment",
+    "title": "Manjul’s Introduction",
+    "section": "",
+    "text": "Update everything except the categories: [Introduction] in the YAML metadata section of your NAME_Introductions.qmd file.\nReplace NAME in the NAME_Introductions.qmd file with your first name.\nIf including any images, place them in the imgs\\ folder and follow the Blog Writing Guidelines for adding images.\nRender the blog post locally to ensure it displays correctly. In RStudio, use the Render icon or press Ctrl+Shift+K on Windows and Shift-Command-K on Mac."
   }
 ]

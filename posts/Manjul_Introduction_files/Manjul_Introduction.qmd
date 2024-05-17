@@ -1,0 +1,53 @@
+---
+title: "Manjul's Introduction"
+author: "Manjul Balayar"
+date: "2024-05-16"
+categories: [Introduction]
+---
+
+## About Me
+
+![My Photo](imgs/my_photo.jpeg)
+
+Hello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. I chose Software Engineering because it had the highest entry-level salary at the time of my high school graduation. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago.
+
+<section id="hobbies" class="level3">
+<h3 class="anchored" data-anchor-id="hobbies">Hobbies</h3>
+<ul>
+<li>Participating in hackathons</li>
+<img src="imgs/hackathon.jpg" alt="Hackathon" width="500" style="display: block; margin-bottom: 20px;">
+<li>Boxing</li>
+<img src="imgs/boxing.jpg" alt="Hackathon" width="500" style="display: block; margin-bottom: 20px;">
+<li>Trying new cuisines</li>
+<img src="imgs/cuisines.jpg" alt="Hackathon" width="500" style="display: block; margin-bottom: 20px;">
+</ul>
+
+Initially, I was solely a Software Engineering major, but I declared my minor in Data Science last fall. My interest in AI began about a year ago, inspired by ChatGPT and a video by Google's machine learning research team about a model for detecting cancerous cells. 
+
+### Future Plans
+I aspire to work in the field of AI/ML. Many people don't realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it's crucial to understand data preprocessing, feature engineering, and visualization. These skills are essential for building better models.
+
+### My Skills and Objectives
+#### Personal Strengths
+- **Good communicator:** An essential skill in any sector.
+- **Adaptability:** I am a quick learner.
+- **Open-mindedness** Being open-minded helps me adapt, learn, and grow in my field.
+
+#### Data Science Skills
+- Fundamental knowledge of machine learning and deep learning
+- Proficiency in multiple programming languages, frameworks, and tools
+- Experience with data preprocessing
+
+#### Goals at DSPG
+- **Data Visualization:** Mastering tools like seaborn, matplotlib, and Tableau, and understanding the significance of various graphs.
+- **Machine Learning Tools:** Improving my proficiency with TensorFlow, Keras, PyTorch, Sci-kit Learn, and more.
+- **Feature Engineering:** Learning to transform raw data into meaningful features.
+
+These skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors.
+
+## Before Submitting Your Assignment
+
+- Update everything except the `categories: [Introduction]` in the YAML metadata section of your `NAME_Introductions.qmd` file.
+- Replace `NAME` in the `NAME_Introductions.qmd` file with your first name.
+- If including any images, place them in the `imgs\` folder and follow the [Blog Writing Guidelines](add%20link) for adding images.
+- Render the blog post locally to ensure it displays correctly. In RStudio, use the Render icon or press `Ctrl+Shift+K` on Windows and `Shift-Command-K` on Mac.

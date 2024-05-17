@@ -1,9 +1,0 @@
----
-title: "Intro to Manjul"
-author: "Manjul Balayar"
-date: "2024-05-16"
-categories: [news, code, analysis]
-image: "1665939821843.jpeg"
----
-
-Words, more words, even more words.
