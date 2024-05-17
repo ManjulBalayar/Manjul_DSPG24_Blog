@@ -44,10 +44,3 @@ I aspire to work in the field of AI/ML. Many people don't realize that AI and Da
 - **Feature Engineering:** Learning to transform raw data into meaningful features.
 
 These skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors.
-
-## Before Submitting Your Assignment
-
-- Update everything except the `categories: [Introduction]` in the YAML metadata section of your `NAME_Introductions.qmd` file.
-- Replace `NAME` in the `NAME_Introductions.qmd` file with your first name.
-- If including any images, place them in the `imgs\` folder and follow the [Blog Writing Guidelines](add%20link) for adding images.
-- Render the blog post locally to ensure it displays correctly. In RStudio, use the Render icon or press `Ctrl+Shift+K` on Windows and `Shift-Command-K` on Mac.
