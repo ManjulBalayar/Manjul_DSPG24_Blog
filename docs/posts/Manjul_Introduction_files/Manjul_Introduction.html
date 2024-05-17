@@ -154,37 +154,61 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<style>
+  body {
+    background-color: #EDFBEA;
+    font-family: monospace;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border: 1px solid #ccc;
+  }
+  .hobbies-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .hobby {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .hobby img {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border: 1px solid #ccc;
+  }
+  .hobby-title {
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+  }
+</style>
 <section id="about-me" class="level2">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="imgs/my_photo.jpeg" class="img-fluid figure-img"></p>
-<figcaption>My Photo</figcaption>
-</figure>
+<p><img src="imgs/my_photo.jpeg" alt="My Photo" width="280" class="center"></p>
+<p>Hello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago.</p>
+</section>
+<section id="hobbies" class="level2">
+<h2 class="anchored" data-anchor-id="hobbies">Hobbies</h2>
+<div class="hobbies-container">
+<p><span class="hobby"> <img src="imgs/hackathon.jpg" class="img-fluid" width="314" alt="Hackathon"> <span class="hobby-title">Hackathons</span> </span> <span class="hobby"> <img src="imgs/boxing.jpg" class="img-fluid" width="300" alt="Boxing"> <span class="hobby-title">Boxing</span> </span> <span class="hobby"> <img src="imgs/cuisines.jpg" class="img-fluid" width="300" alt="Trying New Cuisines"> <span class="hobby-title">Trying New Cuisines</span> </span></p>
 </div>
-<p>Hello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. I chose Software Engineering because it had the highest entry-level salary at the time of my high school graduation. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago.</p>
-<section id="hobbies" class="level3">
-<h3 class="anchored" data-anchor-id="hobbies">
-Hobbies
-</h3>
-<ul>
-<li>
-Participating in hackathons
-</li>
-<img src="imgs/hackathon.jpg" alt="Hackathon" width="500" style="display: block; margin-bottom: 20px;">
-<li>
-Boxing
-</li>
-<img src="imgs/boxing.jpg" alt="Hackathon" width="500" style="display: block; margin-bottom: 20px;">
-<li>
-Trying new cuisines
-</li>
-<img src="imgs/cuisines.jpg" alt="Hackathon" width="500" style="display: block; margin-bottom: 20px;">
-</ul>
+<section id="why-software" class="level3">
+<h3 class="anchored" data-anchor-id="why-software">Why Software?</h3>
+<section id="high-demand-and-security" class="level4">
+<h4 class="anchored" data-anchor-id="high-demand-and-security">High Demand and Security</h4>
+<p><img src="imgs/SE.jpg" alt="Software" width="800" class="center"></p>
 <p>Initially, I was solely a Software Engineering major, but I declared my minor in Data Science last fall. My interest in AI began about a year ago, inspired by ChatGPT and a video by Google’s machine learning research team about a model for detecting cancerous cells.</p>
+<p><img src="imgs/googleML.jpg" alt="Google" width="500" class="center"></p>
+</section>
+</section>
 <section id="future-plans" class="level3">
 <h3 class="anchored" data-anchor-id="future-plans">Future Plans</h3>
-<p>I aspire to work in the field of AI/ML. Many people don’t realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it’s crucial to understand data preprocessing, feature engineering, and visualization. These skills are essential for building better models.</p>
+<p>I aspire to work in the field of AI/ML. Many people don’t realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it’s crucial to understand data preprocessing, data visualization, feature engineering, statistics, etc. These skills are essential for building better models.</p>
 </section>
 <section id="my-skills-and-objectives" class="level3">
 <h3 class="anchored" data-anchor-id="my-skills-and-objectives">My Skills and Objectives</h3>
@@ -193,24 +217,31 @@ Trying new cuisines
 <ul>
 <li><strong>Good communicator:</strong> An essential skill in any sector.</li>
 <li><strong>Adaptability:</strong> I am a quick learner.</li>
-<li><strong>Open-mindedness</strong> Being open-minded helps me adapt, learn, and grow in my field.</li>
+<li><strong>Open-mindedness:</strong> Being open-minded helps me adapt, learn, and grow in my field.</li>
 </ul>
 </section>
 <section id="data-science-skills" class="level4">
 <h4 class="anchored" data-anchor-id="data-science-skills">Data Science Skills</h4>
 <ul>
+<li>Experience with data preprocessing</li>
 <li>Fundamental knowledge of machine learning and deep learning</li>
 <li>Proficiency in multiple programming languages, frameworks, and tools</li>
-<li>Experience with data preprocessing</li>
 </ul>
 </section>
 <section id="goals-at-dspg" class="level4">
 <h4 class="anchored" data-anchor-id="goals-at-dspg">Goals at DSPG</h4>
 <ul>
 <li><strong>Data Visualization:</strong> Mastering tools like seaborn, matplotlib, and Tableau, and understanding the significance of various graphs.</li>
+</ul>
+<p><img src="imgs/vis.jpg" alt="Vis" width="300" class="center"></p>
+<ul>
 <li><strong>Machine Learning Tools:</strong> Improving my proficiency with TensorFlow, Keras, PyTorch, Sci-kit Learn, and more.</li>
+</ul>
+<p><img src="imgs/library.jpg" alt="Lib" width="300" class="center"></p>
+<ul>
 <li><strong>Feature Engineering:</strong> Learning to transform raw data into meaningful features.</li>
 </ul>
+<p><img src="imgs/feature.jpg" alt="Feat" width="300" class="center"></p>
 <p>These skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors.</p>
 
 
@@ -218,7 +249,7 @@ Trying new cuisines
 </section>
 </section>
 
-</section></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
